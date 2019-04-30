@@ -1,0 +1,90 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  background-image: url("../images/original.jpg");
+}
+
+
+@keyframes changing {
+  from {background-color: dimgray;opacity: 0.6;}
+  to {background-color: dimgray;}
+}
+
+
+#main {
+  width: 80%;
+  height: 100%;
+  box-sizing: content-box;
+  margin: 3% auto;
+  color: silver;
+  font-family: 'Gugi', cursive;
+  animation-name: changing;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#mid {
+  position: relative;
+  top: 10%;
+
+}
+
+
+button {
+  display: block;
+  width: 40%;
+  height: 15%;
+  margin: 0 auto;
+  font-size: 30px;
+  cursor: crosshair;
+  background: transparent;
+  border: 0;
+  font-family: 'Gugi', cursive;
+  color: silver;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  padding-top: 2.5%;
+  font-family: 'Gugi', cursive;
+  font-size:  75px;
+  font-weight: bold;
+  color: silver;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+@keyframes warning {
+  from {background-color: transparent;}
+  to {background-color: rgb(206, 10, 10);}}
+
+#start {
+  margin-top: 10%;
+  background: transparent;
+  font-family: 'Gugi', cursive;
+  animation-name: warning;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  
+}
+
+button:hover{
+  background-color: blueviolet;
+}
