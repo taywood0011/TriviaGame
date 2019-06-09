@@ -9,9 +9,9 @@ This Game was built using Javascript timers, basic CSS keyframes, dynamically ge
 https://taywood0011.github.io/TriviaGame/
 
 ## Built With
--HTML
--CSS
--jQuery
+- HTML
+- CSS
+- jQuery
 
 ### Author
 Taylor Wood
