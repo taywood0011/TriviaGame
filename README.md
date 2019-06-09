@@ -1,20 +1,20 @@
-#Taylor's Brain, The Superfluous Trivia Game
+# Taylor's Brain, The Superfluous Trivia Game
 
 Answer the superfluous trivia questions within the time limit to win!
 
-##Technology Focus
+## Technology Focus
 This Game was built using Javascript timers, basic CSS keyframes, dynamically generated jQuery content and click handlers.
 
-##Deployment
+## Deployment
 https://taywood0011.github.io/TriviaGame/
 
-##Built With
+## Built With
 -HTML
 -CSS
 -jQuery
 
-###Author
+### Author
 Taylor Wood
 
-###Version
+### Version
 V1.0
