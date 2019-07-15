@@ -5,12 +5,12 @@ var questions = [{
   correctAnswer: "Good Kid, M.A.A.D City",
   image: "assets/images/Kendrick-Lamar.gif"
 }, {
-  question: "How many hearts does an octopus have??",
+  question: "How many hearts does an octopus have?",
   answers: ["1", "8", "4", "3"],
   correctAnswer: "3",
   image: "assets/images/Octopus.gif"
 }, {
-  question: "Which Philosipher wrote the essay \"The Myth of Sisyphus\"?",
+  question: "Which Philosopher wrote the essay \"The Myth of Sisyphus\"?",
   answers: ["Friedrich Nietzsche", "Michel de Montaigne", "Immanuel Kant", "Albert Camus"],
   correctAnswer: "Albert Camus",
   image: "assets/images/Camus.gif"
